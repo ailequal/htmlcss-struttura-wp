@@ -5,11 +5,26 @@
   border: 0px;
 }
 
+body {
+  width: 80%;
+  padding: 10px;
+  margin: auto;
+}
+
 /* header */
-/* empty */
+.header {
+  height: 300px;
+  background-color: yellow;
+}
 
 /* main */
-/* empty */
+.main {
+height: 600px;
+background-color: red;
+}
 
 /* footer */
-/* empty */
+.footer {
+height: 300px;
+background-color: blue;
+}
